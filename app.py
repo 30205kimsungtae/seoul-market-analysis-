@@ -1,1 +1,1 @@
-df = pd.read_csv("서울시_상권분석서비스.csv", encoding='cp949')
+df = pd.read_csv("서울시 상권분석서비스(상권변화지표-자치구)", encoding='cp949')
